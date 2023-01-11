@@ -7,3 +7,6 @@ This is a list:
   -this is the ifrst thing
   -this is the second
   
+  Link to Class Meeting Jan 11:
+
+[Jan 11 Class](classmeetingjan11.html)
