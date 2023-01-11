@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Grace's Blog
+description: This is documentation of my work and questions throughout the semester
+show_downloads: false
