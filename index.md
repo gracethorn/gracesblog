@@ -10,3 +10,5 @@ This is a list:
   Link to Class Meeting Jan 11:
 
 [Jan 11 Class](classmeetingjan11.html)
+
+[Jan 15 Lab](W1D2.html)
