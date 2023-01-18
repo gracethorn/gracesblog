@@ -24,6 +24,7 @@ GPIO- General Purpose Input & Output
 * Digital clock switching numbers
   
 ADC- Anologue Digital Converter
+
 DAC- Digital Analogue Converter
 
 * PMW- Pulse Width Modulation (dimming LED)
@@ -47,3 +48,4 @@ DAC- Digital Analogue Converter
 * heater
 * relay (switch of its own)
   
+OUR MICRO CONTROLLERS ARE 5 voltz, most tech is 3.3 voltz
