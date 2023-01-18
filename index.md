@@ -12,3 +12,5 @@ This is a list:
 [Jan 11 Class](classmeetingjan11.html)
 
 [Jan 15 Lab](W1D2.html)
+
+[Jan 15 Out of Class Lab](Jan%2015.md)
