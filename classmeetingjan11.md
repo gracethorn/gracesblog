@@ -1,4 +1,4 @@
-# Jan 11 Class Metting
+# Jan 11 Class Meeting
 
 Here is some documentation of what we did in the classroom
 
@@ -9,6 +9,7 @@ GIT Commands:
 * branch
 * clone
 * fetch
+  * check in and sync w/ GitHub
 * push
   
 GIT Hub Commands:
