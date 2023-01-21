@@ -13,6 +13,6 @@ This is a list:
 
 [Jan 15 Lab](W1D2.html)
 
-[Jan 18 InClass Notes](Jan%2018%20InClass.md)
+[Jan 18 InClass Notes](Jan%2018%20InClass.html)
 
-[Jan 20: Week 2 Lab](Week%202%20Lab.md)
+[Jan 20: Week 2 Lab](Week%202%20Lab.html)
