@@ -5,6 +5,8 @@
 
 ## Arduino IDE vs PlatformIO
 
+code(#Include<Arduino.h>)
+
 GPIO- General Purpose Input & Output
 
 ## Analogue vs Digital
