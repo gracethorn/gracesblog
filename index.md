@@ -12,3 +12,7 @@ This is a list:
 [Jan 11 Class](classmeetingjan11.html)
 
 [Jan 15 Lab](W1D2.html)
+
+[Jan 18 InClass Notes](Jan%2018%20InClass.md)
+
+[Jan 20: Week 2 Lab](Week%202%20Lab.md)
