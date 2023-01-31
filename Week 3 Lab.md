@@ -14,7 +14,7 @@ Open *Serial Monitor* -> electirc plug, Ctrl+Shift+P
 
 ## Showing Volts Instead
 
-Work out where float line needs to be in code. 
+Work out where float line needs to be in code.
 Change Serial.println() fuction to print *voltage* rather than the *reading* variable.
 
 **Then**, once that works, these three lines replace the current "println" :

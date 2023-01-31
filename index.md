@@ -17,6 +17,6 @@ This is a list:
 
 [Jan 20: Week 2 Lab](Week%202%20Lab.html)
 
-[Jan 23: In Class Notes](Jan%2023%20In%20Class.md)
+[Jan 23: In Class Notes](Jan%2023%20In%20Class.html)
 
-[Jan 29: Week 3 Lab](Week%203%20Lab.md)
+[Jan 29: Week 3 Lab](Week%203%20Lab.html)
