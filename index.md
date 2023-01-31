@@ -1,13 +1,12 @@
-# This is my semester blog
+# Welcome to my Semester Blog :)
 
-This is some text text
+## He Who Knows Ten Thousand Things
 
-This is a list:
+![Wan Shi Ton](Images/wan%20shi%20ton.jpg)
 
-  -this is the ifrst thing
-  -this is the second
-  
-  Link to Class Meeting Jan 11:
+### just nothing about computers
+
+Here lies "Notes & Labs":
 
 [Jan 11 Class](classmeetingjan11.html)
 
