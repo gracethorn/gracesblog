@@ -19,3 +19,9 @@ Here lies "Notes & Labs":
 [Jan 23: In Class Notes](Jan%2023%20In%20Class.html)
 
 [Jan 29: Week 3 Lab](Week%203%20Lab.html)
+
+[Feb 1: Week 4 Lab 1 LCD Display](Week%204%20Lab%201.html)
+
+[Feb 5: Week 4 Lab 2 Sensors](Week%204%20Lab%20Sensors.html)
+
+[Feb 6: Week 5 In Class Notes](Feb%206%20Week%205%20In%20Class%20Notes.html)
