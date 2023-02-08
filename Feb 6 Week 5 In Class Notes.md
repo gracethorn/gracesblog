@@ -12,7 +12,7 @@
 
 Code:
 
-"*float FTemp = (temperature * 1.8) + 32*"
+"*float FTemp = (temperature x 1.8) + 32*"
 
 * will do order of operations but parentheses will help organize
 
@@ -28,7 +28,7 @@ Found repo, create on in your acount and use all files in repo as starting point
 
 Head and Body section
 
-**p5**, javascript, layer on top of Javascript, so you dont have to use it on its own, 
+**p5**, javascript, layer on top of Javascript, so you dont have to use it on its own,
 
 *Javascript* is to **p5**, as *C++* is to **PlatformIO**
 
@@ -63,6 +63,7 @@ Head and Body section
 variable **mouse x** - mouse position
 
 *let*- allows you to create variable
+
 * ex: let x increase over time (x=x+1)
 
 **Browser Consol** (ctrl+shift+J)
