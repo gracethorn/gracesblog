@@ -72,7 +72,6 @@ Two Ways:
 
 ![Button Chnages Code](../images/joystick%203.jpg)
 
-
 New code should send message *only when button state changes*
 
 **Lab Question:** Do you get multiple messages even though you push the button once? Why do you think that is?
