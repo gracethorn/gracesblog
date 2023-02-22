@@ -8,7 +8,7 @@ CREATE PIO FILE & INPUT CODE FROM LAB
 
 **Answer:** *I am not too sure of the range but I can assume that when the joystick is stationary it will be in the middle of the range and depending on direction the number will shift closer towards x or y accordingly.*
 
-![Reading the Joystick Code](../images/Joystick%20code%201.jpg)
+![Reading the Joystick Code](images/Joystick%20code%201.jpg)
 
 ### Observations of Joystick Output
 
@@ -53,7 +53,7 @@ Note: *Microcontroller chip includes internal pullup to avoid this common enough
 
 ADD SWITCH/PUSHBUTTON TO LIST OF VALUES DISPLAYED
 
-![Push Button Code](../images/joystick%20code%202.jpg)
+![Push Button Code](images/joystick%20code%202.jpg)
 
 ### Code Observations: Switch/push button value is binary, 0 (LOW) or 1 (HIGH)
 
@@ -70,7 +70,7 @@ Two Ways:
 
 ### Button Changes
 
-![Button Chnages Code](../images/joystick%203.jpg)
+![Button Chnages Code](images/joystick%203.jpg)
 
 New code should send message *only when button state changes*
 
@@ -86,6 +86,6 @@ SEND MESSAFE THE MOMENT ANALOGUE INPUT PASSES CERTAIN THRESHOLD
 
 Can be useful w **light or temperature sensor**, we will try with *joystick x-axis*
 
-![Threshold Code](../images/Week%205%20Lab%20Joystick/joystick%20code%204%20success.jpg)
+![Threshold Code](images/Week%205%20Lab%20Joystick/joystick%20code%204%20success.jpg)
 
 **Observations:** *Holding the joy stick in the direction does not cause continuous flow of messages, when moving it rapidly it must be moves back towards middle, below value of 800 (chosen threshold) slight changes are not enough, I an=m sure a larger threshold would allow*
