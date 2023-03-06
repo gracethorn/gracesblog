@@ -35,3 +35,7 @@ Here lies "Notes & Labs":
 [Week 7](Week%207%20Notes.html)
 
 [Week 8](Week%208.html)
+
+MIDTERM PROJECT STUFF:
+
+[Project Outline](midterm%20project.html)
