@@ -1,4 +1,4 @@
-# Week 6 Notes: Feb 18
+# Week 5 Notes: FEB 13
 
 ## First week without Lab
 
@@ -30,3 +30,7 @@
 -an iconic song like the jack n the box theme (something familiar and stimulating)
 
 be sure to *make a carboard model* to try program on phone
+
+## PHOTOS OF LAB NOTES
+
+![Feb 8 In-Class Notes](Images/FEB8notes2.png)
