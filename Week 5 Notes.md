@@ -34,3 +34,8 @@ be sure to *make a carboard model* to try program on phone
 ## PHOTOS OF LAB NOTES
 
 ![Feb 8 In-Class Notes](Images/FEB8notes2.png)
+
+*switching power supply* -regulated (what we want)
+
+*linear* -subject to change (heavy, for unsophisticated things ex: vaccum)
+

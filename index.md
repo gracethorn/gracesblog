@@ -28,4 +28,6 @@ Here lies "Notes & Labs":
 
 [Feb 8: Week 5 Lab 1 Joystick](Week%205%20Lab%201%20Sensor%20Changes.html)
 
-[Feb 18: Week 6 Notes](Week%206%20Notes.md)
+[Feb 8: Week 5 In-Class Notes](Week%205%20Notes.html)
+
+[Feb 13 & 15: Week 6 In-Class](Week%206%20Notes.html)
