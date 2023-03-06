@@ -31,3 +31,7 @@ Here lies "Notes & Labs":
 [Feb 8: Week 5 In-Class Notes](Week%205%20Notes.html)
 
 [Feb 13 & 15: Week 6 In-Class](Week%206%20Notes.html)
+
+[Week 7](Week%207%20Notes.html)
+
+[Week 8](Week%208.html)
