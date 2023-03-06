@@ -12,7 +12,7 @@ but *how to we reward them?* or is simply winning reward enough
 
 *display top score to beat* so they have something to wark toward before they start and a goal in mind
 
-set amount of images, when player exceeds that set amount, the images are then adjusted through filters on ps5j *ex: invert, posterize, blur
+set amount of images, when player exceeds that set amount, the images are then adjusted through filters on ps5j *ex: invert, posterize, blur*
 
 (these distructive events are heavily repeated in the world, but through build up the more they are repeated the more damage they do, so images are then altered)
 

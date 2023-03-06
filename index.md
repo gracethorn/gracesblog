@@ -1,4 +1,4 @@
-# Welcome to my Semester Blog :)
+# Welcome to my Semester Blog
 
 ## He Who Knows Ten Thousand Things
 
