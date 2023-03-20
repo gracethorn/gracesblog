@@ -39,3 +39,5 @@ Here lies "Notes & Labs":
 MIDTERM PROJECT STUFF:
 
 [Project Outline](midterm%20project.html)
+
+[Midterm Project Results and Notes](midterm%20project%20notes.html)
