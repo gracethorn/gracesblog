@@ -1,5 +1,7 @@
 # Final Project Ideas
 
+Start with found objects and work from there
+
 ## Idea 1
 
 ![Idea 1 sketch](Images/final%20sketch%201.jpg)
