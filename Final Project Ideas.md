@@ -1,0 +1,47 @@
+# Final Project Ideas
+
+## Idea 1
+
+![Idea 1 sketch](Images/final%20sketch%201.jpg)
+
+![Idea 1 Notes](Images/final%20notes.jpg)
+
+### Idea Origin
+
+My grandmother died, we immediatly went to her home 20 minutes after, first time entering the stagnant vacant home that no longer has a resident, everyting is so still, so quiet
+
+Until it isnt
+
+"*You have 15 minutes to take what you want and then we have to go*"
+
+immediatly hit with this idea, everything that a person has collected throughout their life, the things they found value in, and now picking at remains like a vulture, how that worth transfers, the end of life/ rebirth for these objects
+
+You are *rushing* out of fear and flooded with grief
+
+Your 15 minutes is not a pleasant timer, you are fearing for your life
+
+**MAJOR GOAL**: Feeling rushed for time in an important and intimate moment
+
+Cause stress and want the viewer to be *desperate* for **more time**
+
+Place the viewer into the personal experience to make thier own interpretation and create their own narrative.
+
+## Idea 2
+
+![Idea 2 Sketch](Images/final%20sketch%202.jpg)
+
+### Idea and Concepts
+
+Iconography of objects
+
+how recognivable are found materials when stripped of their color and identifiers
+
+using human interaction to delve into predetermined notions of objects
+
+When people physically interact with an object maybe something is projected on top, or a sound is played that is related to the object and replaces as the *main identifier*
+
+### Louise Nevelson Art Inspo
+
+![Louise 1](Images/louise1.jpg)
+
+![Louise 2](Images/louise2.jpg)
