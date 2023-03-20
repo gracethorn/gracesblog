@@ -26,6 +26,16 @@ Cause stress and want the viewer to be *desperate* for **more time**
 
 Place the viewer into the personal experience to make thier own interpretation and create their own narrative.
 
+15 minute marker is the cycle, the timer starts at a % accelerated speed
+
+completing the actions slows town time? this gets the audience to participate
+
+a *natural anxiety* comes with a *ticking timer counting down*
+
+When the timer gets closer a heart rate increases
+
+Gathering of item: **items pulled into the viewer** by a *magnet* perhaps and then **magnet pushes away** to *reset*
+
 ## Idea 2
 
 ![Idea 2 Sketch](Images/final%20sketch%202.jpg)
