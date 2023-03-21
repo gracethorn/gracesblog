@@ -57,3 +57,25 @@ When people physically interact with an object maybe something is projected on t
 ![Louise 1](Images/louise1.jpg)
 
 ![Louise 2](Images/louise2.jpg)
+
+Organize objects into a new one
+
+Form into the structure of a radio/ jutebox / dj turn table? (music editor)
+
+have objects use found sound to allow the viewer to create their own lo-fi song
+
+Have a base beat for audience
+
+Objects have different sounds that play and add to the music
+
+certain ones have sound affects tht relate to the object, some dont, some play different layered beats
+
+how to allow some things to loop while others just play once
+
+have a loop button
+
+replay button?
+
+end button
+
+how can I **save my song and take it with me?**
