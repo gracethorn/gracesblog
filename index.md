@@ -45,3 +45,5 @@ MIDTERM PROJECT STUFF:
 FINAL PROJECT STUFF:
 
 [Final Project Ideas & Sketches](Final%20Project%20Ideas.html)
+
+[Final Project More Developed](Final%20Project%202.html)
