@@ -26,17 +26,20 @@ end button
 
 **Piggy Bank**- *oink* or "*cha-ching*"
 
+**Lighter**- *ligther click* or *bong bubble*
 
+**Candle Holder**- *crying* or *praying* ?
 
+**Door Knob**- *door creak* or *fun knock*
 
+**Perfume Bottle**- *seagull call* or *car alarm* ?
 
+## Brainstorm
 
 how can I **save my song and take it with me?**
-## Brainstorm
 
 Organize objects into a new one?
 
 Form into the structure of a radio/ jutebox / dj turn table? (music editor)
 
 have objects use found sound to allow the viewer to create their own lo-fi song
-

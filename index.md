@@ -36,6 +36,8 @@ Here lies "Notes & Labs":
 
 [Week 8](Week%208.html)
 
+[March 22: In Class Notes](March%2022%20In%20Class%20Notes.html)
+
 MIDTERM PROJECT STUFF:
 
 [Project Outline](midterm%20project.html)
