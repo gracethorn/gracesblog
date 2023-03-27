@@ -6,85 +6,94 @@ INPUT LINK OF ROB'S VIDEO
 
 **FUSION 360**- *where 3D modeling takes place, professional software*
 
-gerber
+### Gerber
 
-each gerber is one layer of your board
+each **Gerber** is *one layer* of your board
 
-ncdrill file places and poits on board here drill bit needs to be
+**NC drill file** places and poits on board *where drill bit needs to be*
 
-g code language for cnc machines
+**G code** *language* for **CNC machines*
 
-ncfile
+### NC file
 
-insure units are the same, in millimeters
+insure **units are the same**, *in millimeters*
 
-offset will bring it away from corner
-knowing exacly where it is for where you cut
+**Offset** will bring it away from corner
 
-fix: *have zero as offset it will be easier over, ou can choose starting point*
+- knowing exacly where it is for where you cut
 
-thickness is important so it does cut through too much and so it doesnt barely scratch surface
+FIX: *have zero as offset it will be easier over, ou can choose starting point*
 
-Copper carbite is flipped/mirrored, and shows the bottom of the board
+**Thickness is important** so it *doesn't cut through too much* and so it *doesn't barely scratch surface*
 
-gerber file is from the top
+Copper Carbite
 
-vbit-  v shaped bit, cuts down to make correct cut width
+- flipped/mirrored
+- shows the bottom of the board
 
-cuts trouph around circuit
-you can increase sixe for more isolation
+Gerber file
 
-coppercarbide only had drill bits, cant make slots
+- view from the top of board
 
-board outline
+V bit-  v shaped bit, cuts down to make correct cut width
 
-while you can export another gerber, let it create in carbide copper
+Cuts *trouph around circuit*
 
-can save all the gcode filse together as one
+you can *increase size for more isolation*
 
-or you can save them seperately into a zip file, this always feels safer
+Copper Carbide **only has drill bits**, **can't make slots**
+
+LAYERS
+
+- holes
+- paths
+- board outline
+
+SAVE & EXPORT
+
+While you can export another Gerber, let it create in Carbide Copper
+
+- can save all the G code filse together as one
+
+- or you can save them seperately into a zip file (this always feels safer)
 
 WHY NOT TO USE COPPER CARBIDE
 
-weird shaped boards
+- weird shaped boards
 
-any slots
+- any slots
 
-lots of diff size hold
+- lots of diff size hold
 
-cutting in one pass is a little to much for machine or what you are looking for
+- cutting in one pass is a little to much for machine or what you are looking for
 
 OTHER PROGRAMS
 
-easy EDA browser
+- easy EDA browser
 
-keycad
+- keycad (notibaly good)
 
-Circuit board
+Circuit board form: one side copper, other side fiber glass
 
-one side copper
+*design rules check*- just makes sure you are not breaking any rules, anything too small or things too close together
 
-other side fiber glass
+*factory check* make sure they **can** make it before being sent over
 
-design rules check- just makes sure you are not breaking nay rules, too small or things too close together
+Distance between circuit pins *how far pins on sensors, and ho far breadboard pnis are*
 
-factory check, make sure they can make it before being sent over
+- 2.54 millimeter
 
-distance between circuit pins *how far pins on sensors, and ho far breadboard pnis are*
-
-2.54 millimeter
-
-.1 inch
+- .1 inch
 
 ## MAKE A CIRCUIT
 
-You can clean and rub surface to roughen texture, get rid of finger prints, solder will want to roll off of it
+**Clean and rub surface** to *roughen texture*, get rid of *finger prints*, *solder will want to roll off of it*
 
 501 60 degree V
 
-you can make big holes to fit things, but slots will allow things to fit perfectly and cleanly
+You **can** make *big holes* to fit things, but **slots** will allow things to *fit perfectly and cleanly*
 
-end mills cut out the board and are on top of the cutter, other most circuit things are in metal drawer cabinet under the cutter
+WHERE THINGS ARE: **end mills** (cut out the board) and are on *top of the cutter*, most **other circuit things* are in *metal drawer cabinet under cutter*
 
 end mills are extrememly sharp and fragile, be aware when tkain gout so it doesnt cut you or fall and break
 
@@ -107,3 +116,15 @@ when finishes adjusting set everything at zero and run
 load new tool to rerecognize the new position
 
 use spindle to test if it is touching, check for dust if it cuts through
+
+BIG PROBLEM *the spindle did not turn on while cutting and did not cut into the materil, reason to not trust Copper Carbine* might just use other program Rob knows
+
+EDA PRogram we **will** use : *http/mods.eda.mit.edu/*
+
+EXTRA NOTES:
+
+Needs something big to happen? IoT Power Relay, control standard outlet devices with a microcontroller
+
+Valclav Jira Kenetic Sculptures
+
+** Sensor Kat used RFID reader

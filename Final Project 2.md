@@ -22,6 +22,8 @@ end button
 
 ## Objects & Sounds
 
+MORE THEMED
+
 **Traffic Cone**- *honk* or *blinker*
 
 **Piggy Bank**- *oink* or "*cha-ching*"
@@ -32,7 +34,11 @@ end button
 
 **Door Knob**- *door creak* or *fun knock*
 
+LESS THEMED
+
 **Perfume Bottle**- *seagull call* or *car alarm* ?
+
+**Paper Clip Remover**- *alien spaceship sounds* or *bird chirping*
 
 ## Brainstorm
 
