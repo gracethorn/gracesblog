@@ -49,3 +49,9 @@ FINAL PROJECT STUFF:
 [Final Project Ideas & Sketches](Final%20Project%20Ideas.html)
 
 [Final Project More Developed](Final%20Project%202.html)
+
+Week #-#
+
+[March 27: Week 11 In-Class Notes](Week%2011%20Lab%20Notes.html)
+
+[April 2: Week 12 In-Class Notes](Week%2012%20Class%20Notes.html)
