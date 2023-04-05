@@ -60,10 +60,18 @@ touch something to choose the object wrather than physically grabbing
 
 ### Mechanics and Logistics
 
-What kid of sensor is best to use
+What kind of sensor is best to use
 
 are the sounds specific to the objects? sensor specific or do people just think it is
 
 Back up idea??
 
 "*i will spend the rest of my life hiding the shaking of my hands*"
+
+using a machine to create anxiety
+
+leg tapping
+
+repetative movements and twitches triggered by...
+
+people coming closer? loud sounds? the louder and more stimulated, the more visually indicative of stress
