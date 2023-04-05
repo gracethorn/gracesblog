@@ -40,6 +40,8 @@ LESS THEMED
 
 **Paper Clip Remover**- *alien spaceship sounds* or *bird chirping*
 
+Daisy microcontroller chomi - sound software
+
 ## Brainstorm
 
 how can I **save my song and take it with me?** *you cant*
@@ -56,13 +58,25 @@ needs to be clean and asthetic, *but how can it be hands on? what else can move?
 
 touch something to choose the object wrather than physically grabbing
 
+change in tone?
+
 ![Final Project Objects](Images/final%20project%20objects.jpg)
+
+### What people can Control
+
+1. Choose Your Base Track (1)
+2. Place Objects to Create Sounds
+3. Loop Sounds
+
+Are there certain random or unexpected elements?
 
 ### Mechanics and Logistics
 
 What kind of sensor is best to use
 
 are the sounds specific to the objects? sensor specific or do people just think it is
+
+*midi controllers* (physical output to midi)
 
 Back up idea??
 
