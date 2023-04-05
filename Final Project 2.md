@@ -50,7 +50,7 @@ Organize objects into a new one?
 
 Form into the structure of a radio/ jutebox / dj turn table? (music editor)
 
-have objects use found sound to allow the viewer to create their own lo-fi song
+have objects use found sound to allow the viewer to **create their own lo-fi song**
 
 have buttons/switches to *loop sounds*? or can that be done with the speed and actual turn table spin
 
@@ -62,13 +62,18 @@ change in tone?
 
 ![Final Project Objects](Images/final%20project%20objects.jpg)
 
+**Important Elements:** This should be a *fun and persoanlized experience* for viewers, bring lo-fi into art sphere
+
+Elements of Lo-fi: imperfections, everyday sounds, repetition & rhythm
+
 ### What people can Control
 
-1. Choose Your Base Track (1)
-2. Place Objects to Create Sounds
+1. Choose Your Base Track (3 options?)
+2. Place Objects to Produce Sounds (are sounds related or actually just random)
 3. Loop Sounds
+4. Change Tone?
 
-Are there certain random or unexpected elements?
+Are there certain **random or unexpected elements?**
 
 ### Mechanics and Logistics
 
@@ -78,7 +83,7 @@ are the sounds specific to the objects? sensor specific or do people just think 
 
 *midi controllers* (physical output to midi)
 
-Back up idea??
+### Back up idea??
 
 "*i will spend the rest of my life hiding the shaking of my hands*"
 
