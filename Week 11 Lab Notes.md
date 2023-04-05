@@ -90,4 +90,6 @@ Book: Making Things Move Dustyn Roberts
 
 Cabaret Mechanical Movement (on Google) Contemporary Automica
 
-CHANGE THE KIND OF ACTION
+Cam for each axis
+
+cam follower connects and stabilizes cams

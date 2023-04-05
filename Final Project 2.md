@@ -49,3 +49,9 @@ Organize objects into a new one?
 Form into the structure of a radio/ jutebox / dj turn table? (music editor)
 
 have objects use found sound to allow the viewer to create their own lo-fi song
+
+![Final Project Objects](Images/final%20project%20objects.jpg)
+
+Back up idea?? 
+
+"*i will spend the rest of my life hiding the shaking of my hands*"
