@@ -42,7 +42,7 @@ LESS THEMED
 
 ## Brainstorm
 
-how can I **save my song and take it with me?**
+how can I **save my song and take it with me?** *you cant*
 
 Organize objects into a new one?
 
@@ -53,6 +53,8 @@ have objects use found sound to allow the viewer to create their own lo-fi song
 have buttons/switches to *loop sounds*? or can that be done with the speed and actual turn table spin
 
 needs to be clean and asthetic, *but how can it be hands on? what else can move? how can it be more dynamic?*
+
+touch something to choose the object wrather than physically grabbing
 
 ![Final Project Objects](Images/final%20project%20objects.jpg)
 
