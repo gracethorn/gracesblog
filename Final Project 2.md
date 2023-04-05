@@ -50,8 +50,18 @@ Form into the structure of a radio/ jutebox / dj turn table? (music editor)
 
 have objects use found sound to allow the viewer to create their own lo-fi song
 
+have buttons/switches to *loop sounds*? or can that be done with the speed and actual turn table spin
+
+needs to be clean and asthetic, *but how can it be hands on? what else can move? how can it be more dynamic?*
+
 ![Final Project Objects](Images/final%20project%20objects.jpg)
 
-Back up idea?? 
+### Mechanics and Logistics
+
+What kid of sensor is best to use
+
+are the sounds specific to the objects? sensor specific or do people just think it is
+
+Back up idea??
 
 "*i will spend the rest of my life hiding the shaking of my hands*"
