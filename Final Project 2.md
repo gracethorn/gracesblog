@@ -75,3 +75,5 @@ leg tapping
 repetative movements and twitches triggered by...
 
 people coming closer? loud sounds? the louder and more stimulated, the more visually indicative of stress
+
+other random idea: random stuff with knives? *chopping and dicing*
