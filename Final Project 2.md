@@ -64,7 +64,10 @@ change in tone?
 
 **Important Elements:** This should be a *fun and persoanlized experience* for viewers, bring lo-fi into art sphere
 
-Elements of Lo-fi: imperfections, everyday sounds, repetition & rhythm
+Elements of Lo-fi:
+
+- "do it yourself", imperfections, everyday sounds, repetition & rhythm
+- "home-recorded", "technically primitive", and "inexpensive equipment"
 
 ### What people can Control
 
