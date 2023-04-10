@@ -1,4 +1,4 @@
-# Week 11 Lab
+# Week 11 In-Class Notes
 
 Did not get to complete
 
