@@ -50,6 +50,8 @@ FINAL PROJECT STUFF:
 
 [Final Project More Developed](Final%20Project%202.html)
 
+[FINAL Brainstorm & Share Ideas](FinalProjectShare.html)
+
 Week #-#
 
 [March 27: Week 11 In-Class Notes](Week%2011%20Lab%20Notes.html)
