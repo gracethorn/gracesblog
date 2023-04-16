@@ -33,13 +33,35 @@ Would love a *mix of like good sounds and then funny unexpected moments*
 *Persona 5 game soundtrack*, I often find sounds or base music for art projects
 
 - Animal Crossing talking sound
-
 - Children giggle (enforce play, everyday normal sound)
-
 - Iconic phone alarm, *how do people respond, are they less likely to use that sound out of reflex?*
+- Mario Kart Star Power up (I just find it so obnoxious and comical in a lo-fi setting)
+- Super Smash Bros (OK noise, "GAME OVER", "Player One Defeated")
+- Some Pokemon sounds (real range between cute and wtf)
+- subtle rain sound
+- jeopardy tune/buzzer
+- wheel of fortune wheel spin
+- a hardy sneeze
+- a whistle
+- some diologue (maybe a slogan, catchphrase, successfully repeated quote or statement)?
 
 When **thinking about more sounds**: what are some universally recognizable noises and what do they prevoke within a person? *email chaimes or notifications causing anxiety*
 
 Have some sounds work better for looping while others are more intentional and placed on beat, let the audience figure this out?
 
 Priority in all of my work is really to just **have fun w it**, from the start of the process to the final result and user interaction. Anything you would like to include or would have fun working with please go ahead and use whatever would make you happiest.
+
+## Project Title and Appearance
+
+Childs play rug
+
+- Spray paint certain sections to indicate where and which objects shoud be placed
+- Typical green rug with roads and buildings
+- Sections painted specific blue for where objects go
+- Spray-paint stencil signs to indicated specific object?
+  
+Project Title/directions
+
+- how to get people to play w/out directly telling them to
+- use a child toy slogan that is recognizable but can be applied to our game/project
+- Have slogan written/spray painted in the orignal toy font?
