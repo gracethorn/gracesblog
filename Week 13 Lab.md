@@ -47,3 +47,21 @@ Challenge:
 - add ability to press << to 0 & >> to 10 to 180
 
 Makes sense to use *branch here* while experimenting
+
+## Go Over in Class
+
+volitile- this is a veriable that gets invloved in the interrupt
+
+interrupt- fuction triggered when something happens
+
+- ex:"if signal on arduino changes, triggers functions", pin change interrupt
+- timer interrupt- every so often gets triggered
+- work during delays
+
+asiliscope shows power over time
+
+hex numbers- ex: #102 < decimal, 66 < hex. color numbers RGB are hex numbers
+
+operators: and, or, not (!)
+
+ledState = !ledState; (toggle LED)
