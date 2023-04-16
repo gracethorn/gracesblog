@@ -38,6 +38,8 @@ Would love a *mix of like good sounds and then funny unexpected moments*
 
 - Iconic phone alarm, *how do people respond, are they less likely to use that sound out of reflex?*
 
+When **thinking about more sounds**: what are some universally recognizable noises and what do they prevoke within a person? *email chaimes or notifications causing anxiety*
+
 Have some sounds work better for looping while others are more intentional and placed on beat, let the audience figure this out?
 
 Priority in all of my work is really to just **have fun w it**, from the start of the process to the final result and user interaction. Anything you would like to include or would have fun working with please go ahead and use whatever would make you happiest.
