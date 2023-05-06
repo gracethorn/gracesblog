@@ -71,3 +71,22 @@ Project Title/directions
 - how to get people to play w/out directly telling them to
 - use a child toy slogan that is recognizable but can be applied to our game/project
 - Have slogan written/spray painted in the orignal toy font?
+
+## Objects
+
+CURRENT MOVEABLE ITEMS:
+
+- clock
+- purse
+- traffic cone
+- piggy bank
+- succulents (x2)
+- bird house
+- shoe
+- hat
+- candle holder
+- door knob
+- -hula girl
+- happy meal
+- mini classic plant pot
+  

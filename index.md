@@ -61,3 +61,5 @@ Week #-#
 [April 2: Week 12 In-Class Notes](Week%2012%20Class%20Notes.html)
 
 [Week 13 Lab:(IR Remote & Servos)](Week%2013%20Lab.html)
+
+[April 17: In-Class](April17notes.html)
