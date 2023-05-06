@@ -4,13 +4,17 @@
 
 by Grace & Craig
 
-*Audience is encouraged to interact with the childs play rug, taking objects from the related framed display to create an imerseive experience that invokes feelings of nastoglia and childhood wonder. Combining the sometimes untouchable art world with shared familiar past experiences, using relatability to further encourage physical interactivity*.
+*Audience is encouraged to interact with the childs play rug, taking objects from the framed sculpture to create an imerseive experience that evokes feelings of nastoglia and childhood wonder. Combining the sometimes untouchable art world with shared familiar past experiences, using relatability to further encourage physical interactivity*.
 
 ### Project Photo Documentation
 
 ![Final Project Overview](Images/final%20project%201.jpg)
 
 ![Object Close-up](Images/final%20project%201.jpg)
+
+![Interaction Documentation 1](Images/interact%20rug%201.PNG)
+
+![Interaction Documentation 2](Images/interact%20rug%202.jpg)
 
 ### Observations and Changes for the future
 

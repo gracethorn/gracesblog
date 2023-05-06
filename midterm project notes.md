@@ -2,7 +2,11 @@
 
 ## Documentation of Work
 
-(*enter photo and video documentation of Horse Interactice piece*)
+![Ride me Horse](Images/midterm%20horse.jpg)
+
+(*enter photo and video documentation of flame component of Horse Interactice piece*)
+
+- phone was inside horse, be more prepared.
 
 ## Project Description & Ideas
 
@@ -28,7 +32,7 @@ Shoe prints give subtle signal viewer to participate without standing out
 
 How should the piece atart? On a black screen so it isnt clear at first, or does the stagnat fire invite the viewer to to cuase action, is there a better way to do thsi and provoke the viewer to inact a change
 
-NEED BETTER PORJECTOR SET UP OVERALL
+NEED BETTER PROJECTOR SET UP OVERALL
 
 Clear up the quality and legibility of the images
 
