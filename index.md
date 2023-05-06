@@ -63,3 +63,7 @@ Week #-#
 [Week 13 Lab:(IR Remote & Servos)](Week%2013%20Lab.html)
 
 [April 17: In-Class](April17notes.html)
+
+FINAL FINAL!!
+
+[FINAL PROJECT Documentation and After Thoughts](FINAL%20PROJECT%20doc.html)
